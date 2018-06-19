@@ -40,12 +40,12 @@ const u8 gOtherText_RareWordAdded[] = _("Ein seltenes Wort wurde hinzugefügt.")
 
 const u8 gOtherText_PokeWasSentOver[] = _("{STR_VAR_1} wurde gesendet!");
 
-const u8 gOtherText_PartyIsFull[] = _("Dein Team ist bereits vollständig.\n{STR_VAR_1} kann nicht gesendet\lwerden.");
+const u8 gOtherText_PartyIsFull[] = _("Dein Team ist bereits vollstãndig.\n{STR_VAR_1} kann nicht gesendet\lwerden.");
 
 const u8 gOtherText_NewTrainerInHoenn[] = _("Ein neuer TRAINER ist in HOENN\nangekommen.");
 
 const u8 gOtherText_NewAdversaryInBattleTower[] = _("Ein neuer Widersacher ist im DUELLTURM\neingetroffen.");
 
-const u8 gOtherText_DataCannotUseVersion[] = _("Die Daten können in dieser Edition\nnicht eingesetzt werden.");
+const u8 gOtherText_DataCannotUseVersion[] = _("Die Daten kõnnen in dieser Edition\nnicht eingesetzt werden.");
 
 #endif // ENGLISH/GERMAN

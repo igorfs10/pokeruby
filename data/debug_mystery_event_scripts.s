@@ -66,12 +66,12 @@ _0845DBB5:
 	end
 
 _0845DBBE:
-	.string "VATER: {PLAYER}! Schön, dich zu sehen!\n"
+	.string "VATER: {PLAYER}! Schõn, dich zu sehen!\n"
 	.string "Hier ist ein Brief für dich, {PLAYER}.$"
 
 _0845DC00:
 	.string "VATER: Ich bin mir nicht sicher, es\n"
-	.string "könnte ein TICKET für eine Fähre sein.\p"
+	.string "kõnnte ein TICKET für eine Fãhre sein.\p"
 	.string "Du solltest nach SEEGRASULB CITY gehen\n"
 	.string "und dich dort genauer erkundigen.$"
 
@@ -158,7 +158,7 @@ _0845E34F:
 	.string "Spielers aufgenommen.$"
 
 _0845E387:
-	.string "Das Team des Spielers ist vollständig.\n"
+	.string "Das Team des Spielers ist vollstãndig.\n"
 	.string "Es kann kein weiteres POKéMON\l"
 	.string "aufgenommen werden.$"
 
